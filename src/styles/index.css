@@ -52,10 +52,12 @@ body {
 
     .button {
       font-size: 24px;
-      margin-bottom: 16px;
+      margin-top: 22px;
       color: #fff;
-      background-color: #b12222;
+      background-color: purple;
       border: 2px solid gold;
       border-radius: 16px;
       padding: 8px 16px;
+      display: flex;
+      align-items: center;
     }
